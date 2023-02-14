@@ -1,5 +1,5 @@
 # introduction
-RecipesApp is a Java procect that you can use to get Isreali cooking recipes.
+RecipesApp is a Java project that you can use to get Isreali cooking recipes.
 
 # Deployment
 1. Install Android Studio on your computer and pair your phone with Androis Studio.
